@@ -3,7 +3,7 @@
 - 👨‍💻 Desenvolvedor FullStack
 - 🌱 Me especializando nas Stack JS, com Noje, ReackJS, React Native.
 
-[![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=jailsonh3&show_icons=true&theme=react)](https://github.com/jailsonh3)
+[![Anurag GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=jailsonh3)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailsonh3&layout=compact&theme=react&langs_count=8)](https://github.com/jailsonh3)
 
 ##
