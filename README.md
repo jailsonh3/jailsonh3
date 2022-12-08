@@ -20,8 +20,6 @@
 
 ```
 
-<br />
-
 ``` 
  - 🌱 I'm currently learning NextJS, NestJS React Native and other cool stuff!
  - 👯 I'm looking to collaborate on fullstack web apps!
