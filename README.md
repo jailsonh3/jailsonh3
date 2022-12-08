@@ -20,10 +20,14 @@
                                       
 ```
 <br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jailsonh3&theme=nord&no-frame=true&margin-w=10&column=7" />
+
 <div style="display: flex;">
   <img width="420px" height="195px" src="https://cheesits456-readme-stats.vercel.app/api?username=jailsonh3&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
   <img width="350px" height="195px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jailsonh3&layout=compact&hide=smarty&theme=github_dark">
 </div>
+
 <div style="display: inline-block;">
   <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
   <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
@@ -36,5 +40,5 @@
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jailsonh3&theme=nord&no-frame=true&margin-w=10&column=7" />
+
 
