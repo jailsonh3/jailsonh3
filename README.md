@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor JavaScript apaixonado po
 * Habilidade em trabalhar em equipe e colaborar em projetos de código aberto
 <br>
 
-<div style="display: flex;">
+<div style="display: grid; grid-templete-colunm: repit(2, 1fr);">
   <img width="420px" height="195px" src="https://cheesits456-readme-stats.vercel.app/api?username=jailsonh3&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
   <img width="350px" height="195px" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jailsonh3&layout=compact&hide=smarty&theme=github_dark">
 </div>
