@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor JavaScript apaixonado po
   <img style="align-self: stretch; width: 40%;"  src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=jailsonh3&layout=compact&hide=smarty&theme=github_dark">
 </div>
 
-
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jailsonh3&theme=nord&no-frame=true&margin-w=10&column=7" />
 
