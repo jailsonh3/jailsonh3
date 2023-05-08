@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor JavaScript apaixonado po
 * 🔭 Atualmente estou trabalhando em projetos pessoais, buscando aprimorar minhas habilidades em JavaScript e suas tecnologias relacionadas.
 * 🌱 Estou sempre aprendendo e me atualizando, especialmente em áreas como React, Node.js, TypeScript e outros.
 * 👯 Estou sempre procurando colaborar em projetos de código aberto e ajudar a comunidade de desenvolvimento web.
-* 💬 Você pode me perguntar sobre qualquer coisa relacionada a desenvolvimento web, especialmente em JavaScript. Além disso, adoro conversar sobre tecnologia, esportes, música e outros tópicos interessantes.
+* 💬 Você pode me perguntar sobre qualquer coisa relacionada a desenvolvimento web, especialmente em JavaScript. Além disso, adoro conversar sobre tecnologia, seriés e games e outros tópicos interessantes.
 * 📫 Você pode me contatar através do meu [E-mail](https://mail.google.com/mail/u/0/?authuser=jailsonh3@gmail.com)
  ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/jailsonh3).
 
